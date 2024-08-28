@@ -9,12 +9,12 @@
         </defs>
 <img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" clip-path="url(#circle)" />
   </svg>
-###
+
 <br>
 <div align="center">
-<p align="right">Me chamo Caesar, realizo testes automatizados em Cypress e Selenium.<br>Tenho conhecimento em linguagem de marcação HTML, estilizo em SCSS, linguagens de programação: Javascript e Java</p></div>
+<p align="right">Me chamo <b>Caesar</b>, realizo testes automatizados em Cypress e Selenium.<br>Tenho conhecimento em linguagem de marcação HTML, estilizo em SCSS, linguagens de programação: Javascript e Java</p></div>
 <br>
-###
+
 
 <br clear="both">
 
