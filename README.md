@@ -1,14 +1,7 @@
 <h2 align="left">Bem vindes!</h2>
 <br>
-###
- <svg width="200" height="200">
-        <defs>
-            <clipPath id="circle">
-                <circle cx="100" cy="100" r="100" />
-            </clipPath>
-        </defs>
-<img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" clip-path="url(#circle)" />
-  </svg>
+
+<img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" />
 
 <br>
 <div align="center">
@@ -73,7 +66,7 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/caesarveras/caesarveras/output/snake.svg" alt="Snake animation" />
 
 ###
+
