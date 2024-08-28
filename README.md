@@ -4,9 +4,9 @@
 <img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" />
 
 <div align="center">
-<p align="right">Me chamo <b>Caesar</b>, realizo testes automatizados em Cypress e Selenium.<br>Tenho conhecimento em linguagem de marcação HTML, estilizo em CSS.<br>
+<p align="right">Sou o <b>Caesar</b>, Analista de Qualidade, estudando para ser um bom arquiteto de soluções<br>
   <br>STACKS:
-<br>linguagens de programação: Javascript e Java. <br>Ferramentas de design: Figma, Photoshop e Gimp
+<br>linguagens de programação: Javascript, Java, Cypress e Selenium <br>Ferramentas de design: Figma, Photoshop e Gimp
 <br> Ferramentas de gestão: Azure DevOps e JIRA</p></div>
 <br>
 
