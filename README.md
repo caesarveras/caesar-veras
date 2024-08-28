@@ -1,7 +1,7 @@
 <h2 align="left">Bem vindes!</h2>
 <br>
 ###
-<img align="left" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png"  />
+<img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" style="clip-path: circle(50%);/>
 
 ###
 <br>
