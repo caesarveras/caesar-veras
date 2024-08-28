@@ -9,8 +9,8 @@
 <br> Ferramentas de gestão: Azure DevOps e JIRA</p></div>
 <br>
 
----
 
+---
 
 <br clear="both">
 
@@ -22,12 +22,8 @@
     <a href="https://www.figma.com">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> 
   <img width="12" /></a>
-  <a href="https://www.adobe.com/br/products/photoshop.html#modal-hash">
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  <img width="12" /></a> 
-    <a href="https://www.gimp.org">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" /></a> 
+  <a href="https://www.adobe.com/br/products/photoshop.html#modal-hash"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  /><img width="12" /></a> 
+    <a href="https://www.gimp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  /><img width="12" /></a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -48,6 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
 ---
 
 <p><br></p>
@@ -63,16 +60,17 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
+---
+
 <p><br></p>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caesarveras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caesarveras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-
----
 [![](https://visitcount.itsvg.in/api?id=caesarveras&icon=0&color=2)](https://visitcount.itsvg.in)
 
+---
 
 </div>
 <br clear="both">
