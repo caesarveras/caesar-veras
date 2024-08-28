@@ -1,7 +1,7 @@
 <h2 align="left">Bem vindes!</h2>
 <br>
 ###
-<img align="left" height="150" src="https://i.ibb.co/ynKd9Pv/Whats-App-Image-2024-08-28-at-10-42-13.jpg"  />
+<img align="left" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png"  />
 
 ###
 <br>
