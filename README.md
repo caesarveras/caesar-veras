@@ -3,25 +3,31 @@
 
 <img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" />
 
-<br>
 <div align="center">
-<p align="right">Me chamo <b>Caesar</b>, realizo testes automatizados em Cypress e Selenium.<br>Tenho conhecimento em linguagem de marcação HTML, estilizo em SCSS, linguagens de programação: Javascript e Java</p></div>
+<p align="right">Me chamo <b>Caesar</b>, realizo testes automatizados em Cypress e Selenium.<br>Tenho conhecimento em linguagem de marcação HTML, estilizo em CSS.<br>
+  <br>linguagens de programação: Javascript e Java. Ferramentas de design: Figma, Photoshop e Gimp
+<br> Ferramentas de gestão: Azure DevOps e JIRA</p></div>
 <br>
 
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
+  <a href= "https://azure.microsoft.com/pt-br/products/devops">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /> <img width="12" /> <\a>
+    <a href="https://www.atlassian.com/br/software/jira">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
+  <img width="12" /> <\a>
+    <a href="https://www.figma.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
+  <img width="12" /><\a>
+    <a href="https://www.adobe.com/br/products/photoshop.html#modal-hash">
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  <img width="12" />
+  <img width="12" /> <\a>
+    <a href="https://www.gimp.org">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
+  <img width="12" /><\a>
+    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -35,6 +41,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+  
+  </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
@@ -45,7 +54,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/kayzer_blacktiger/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> <\a>
   <a href="discord.com\invite\kayzerblack" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
