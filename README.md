@@ -3,9 +3,9 @@
 
 <img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" />
 <div align="center">
-<p align="right">Sou o <b>Caesar</b>, Analista de Qualidade, estudando para ser um bom arquiteto de soluções<br>
+<p align="right">Sou o <b>Caesar</b>, Analista de Qualidade e professor de inglês/português, sempre me atualizando para ser um bom profissional<br>
   <br>STACKS:
-<br>linguagens de programação: Javascript, Java, Cypress e Selenium <br>Ferramentas de design: Figma, Photoshop e Gimp
+<br>linguagens: Javascript, Java, C e React <br>Ferramentas de design: Figma, Photoshop e Gimp
 <br> Ferramentas de gestão: Azure DevOps e JIRA</p></div>
 <br>
 
