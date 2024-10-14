@@ -4,16 +4,13 @@
 <img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" />
 <div align="center">
 <p align="right">Sou o <b>Caesar</b>, Analista de Qualidade e professor de inglês/português, sempre me atualizando para ser um bom profissional<br>
-  <br>STACKS:
-<br>linguagens: Javascript, Java, C e React <br>Ferramentas de design: Figma, Photoshop e Gimp
-<br> Ferramentas de gestão: Azure DevOps e JIRA</p></div>
-<br>
+
 
 
 ---
 
 <br clear="both">
-
+  <br>STACKS:
 <div align="center">
   <a href= "https://azure.microsoft.com/pt-br/products/devops">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /><img width="12" /></a>
